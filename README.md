@@ -1,3 +1,3 @@
-# This repo is for easy fun games !!!
+**Game repo**
 
-Tictactoe : press 1 to restart the game
+- **Tictactoe** : press 1 to restart the game
